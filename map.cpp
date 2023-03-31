@@ -11,7 +11,7 @@ int main() {
     prod[2] = "Monitor";
     prod[3] = "Cx.Som";
 
-    for(int i =0; i < 4; i++) {     // ultiizando 'for' tradiçional para imprimiro os produtos
+    for(int i =0; i < 4; i++) {     // ultilizando 'for' tradiçional para imprimiro os produtos
             cout << prod[i] << endl;
     }
 
